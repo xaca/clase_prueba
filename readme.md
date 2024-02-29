@@ -5,3 +5,4 @@
 ## Lista de alumnos
 
 - Diana Isabel López Chacón
+- Sebastián de Jesús Linero Campo
