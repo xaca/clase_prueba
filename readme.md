@@ -4,7 +4,7 @@
 
 ## Lista de alumnos
 
-- Diana Isabel López Chacón
+- Diana Isabel López Chacón (Hobby: Ver series :tv: :jp:)
 - Sebastián de Jesús Linero Campo
 - Rubio Andres Bolaños
 - Edinson Chaverra Villarreal
