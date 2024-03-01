@@ -14,3 +14,4 @@
 - Juan Jose Villegas Ospina
 - Sebastian Bustamante Torres
 - Adrian Felipe Ochoa Hoyos
+- Sebastián Botero Valencia
