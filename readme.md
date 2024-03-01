@@ -12,3 +12,4 @@
 - Hector Jaime Ardila Velez
 - Valentina Zapata Lopera 
 - Juan Jose Villegas Ospina
+- Sebastian Bustamante Torres
