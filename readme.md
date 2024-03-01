@@ -13,3 +13,4 @@
 - Valentina Zapata Lopera 
 - Juan Jose Villegas Ospina
 - Sebastian Bustamante Torres
+- Adrian Felipe Ochoa Hoyos
