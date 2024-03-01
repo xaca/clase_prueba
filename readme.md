@@ -8,3 +8,4 @@
 - Sebastián de Jesús Linero Campo
 - Rubio Andres Bolaños
 - Edinson Chaverra Villarreal
+- Jean Pierre Agudelo
