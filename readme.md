@@ -7,3 +7,4 @@
 - Diana Isabel López Chacón
 - Sebastián de Jesús Linero Campo
 - Rubio Andres Bolaños
+- Edinson Chaverra Villarreal
