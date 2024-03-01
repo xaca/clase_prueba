@@ -17,7 +17,7 @@ Pendiente: Frase, Imagen de iconarchive.com
 - Rubio Andres Bolaños
 - Edinson Chaverra Villarreal
 - Jean Pierre Agudelo
-- Hector Jaime Ardila Velez (Hobby: Jugar ajedrez :rhino: (Discord))
+- Hector Jaime Ardila Velez (Hobby: Jugar ajedrez :rhinoceros:)
   Frase: El ayer se ha marchado
 - Valentina Zapata Lopera 
 - Juan Jose Villegas Ospina
