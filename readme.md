@@ -11,7 +11,8 @@
 - Rubio Andres Bolaños
 - Edinson Chaverra Villarreal
 - Jean Pierre Agudelo
-- Hector Jaime Ardila Velez
+- Hector Jaime Ardila Velez (Hobby: Jugar ajedrez :rhino: (Discord))
+  Frase: El ayer se ha marchado
 - Valentina Zapata Lopera 
 - Juan Jose Villegas Ospina
 - Sebastian Bustamante Torres
