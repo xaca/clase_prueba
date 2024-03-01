@@ -1,11 +1,13 @@
 # Curso Fullstack
 
+![Imagen de una nube](https://icons.iconarchive.com/icons/webalys/kameleon.pics/128/Database-Cloud-icon.png)
+
 - Profesor: Andrés Bedoya Tobón
 
 ## Lista de alumnos
 
 - Diana Isabel López Chacón (Hobby: Ver series :tv: :jp:)
-- Sebastián de Jesús Linero Campo
+- Sebastián de Jesús Linero Campo (Hobby: Danza :man_dancing:)
 - Rubio Andres Bolaños
 - Edinson Chaverra Villarreal
 - Jean Pierre Agudelo
