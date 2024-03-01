@@ -1,4 +1,7 @@
-# Estudiantes curso Fullstack
+# Curso Fullstack
 
 - Profesor: Andrés Bedoya Tobón
-- Alumna: Diana Isabel López Chacón
+
+## Lista de alumnos
+
+- Diana Isabel López Chacón
