@@ -9,3 +9,4 @@
 - Rubio Andres Bolaños
 - Edinson Chaverra Villarreal
 - Jean Pierre Agudelo
+- Hector Jaime Ardila Velez
