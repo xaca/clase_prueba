@@ -11,3 +11,4 @@
 - Jean Pierre Agudelo
 - Hector Jaime Ardila Velez
 - Valentina Zapata Lopera 
+- Juan Jose Villegas Ospina
