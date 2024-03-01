@@ -10,3 +10,4 @@
 - Edinson Chaverra Villarreal
 - Jean Pierre Agudelo
 - Hector Jaime Ardila Velez
+- Valentina Zapata Lopera 
