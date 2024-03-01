@@ -4,9 +4,15 @@
 
 - Profesor: Andrés Bedoya Tobón
 
+[DevCheck](https://www.instagram.com/devcheck.co/?hl=es)
+> "Talk is cheap, show me the code" -- Linus Torvalds
+
 ## Lista de alumnos
 
 - Diana Isabel López Chacón (Hobby: Ver series :tv: :jp:)
+
+Pendiente: Frase, Imagen de iconarchive.com
+
 - Sebastián de Jesús Linero Campo (Hobby: Danza :man_dancing:)
 - Rubio Andres Bolaños
 - Edinson Chaverra Villarreal
