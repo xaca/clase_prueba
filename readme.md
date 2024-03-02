@@ -43,11 +43,10 @@ Pendiente: Frase, Imagen de iconarchive.com
 
 - Hector Jaime Ardila Velez
     
-      - **Hobby** Jugar ajedrez :chess_pawn:
-      - **Instagram** :camera: https://www.instagram.com/hector_velez09?igsh=bGkzOXJwaWxraXN4
+     - **Hobby** Jugar ajedrez :chess_pawn:
+    - **Instagram** :camera: https://www.instagram.com/hector_velez09?igsh=bGkzOXJwaWxraXN4
       > "El ayer se ha marchado" - Robert Kiyosaki
       
-
 
 - Valentina Zapata Lopera 
 - Juan Jose Villegas Ospina
