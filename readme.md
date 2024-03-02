@@ -23,4 +23,13 @@ Pendiente: Frase, Imagen de iconarchive.com
 - Juan Jose Villegas Ospina
 - Sebastian Bustamante Torres
 - Adrian Felipe Ochoa Hoyos
-- Sebastián Botero Valencia
+- Sebastián Botero Valencia Hobby (Guitarrista en una banda) :guitar:
+
+![Imagen de musica](https://icons.iconarchive.com/icons/dtafalonso/yosemite-flat/128/Music-icon.png)
+
+[Mi Banda de rock alternativo](https://www.instagram.com/nocturnar.io/) 
+
+> "El tiempo es arena en mis manos" -- Gustavo Cerati
+
+
+
