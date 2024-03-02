@@ -15,6 +15,15 @@ Pendiente: Frase, Imagen de iconarchive.com
 
 - Sebastián de Jesús Linero Campo (Hobby: Danza :man_dancing:)
 - Rubio Andres Bolaños
+  -  Hobbyes 
+      -- Gym :muscle: 
+      --Fútbol :soccer:
+
+      > “La genialidad es 1% de inspiración y 99% de transpiración”---**Thomas Edison**
+  - redes
+      - [Instagram](https://www.instagram.com/andresco1995/)  :camera_flash:
+      - ![engineer](https://icons.iconarchive.com/icons/alecive/flatwoken/256/Apps-Audio-Card-icon.png)
+    
 - Edinson Chaverra Villarreal
 - Jean Pierre Agudelo
     - Hobbies 
