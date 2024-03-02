@@ -17,6 +17,20 @@ Pendiente: Frase, Imagen de iconarchive.com
 - Rubio Andres Bolaños
 - Edinson Chaverra Villarreal
 - Jean Pierre Agudelo
+    - Hobbies 
+      -  Gym :muscle: 
+      - Running :runner: 
+      - Series :desktop_computer: :crossed_flags:
+      - Videojuegos :video_game:
+
+   - Frase: 
+     > <b>Estamos aquí para dejar una marca en el universo</b>  - Steve jobs
+    - Redes:
+        - Linkedin:  (www.linkedin.com/in/jean-pierre-agudelo-864297234)
+        - Instagram: jean_131
+        
+    - Imagen: 
+      ![Imagen Mundo](https://icons.iconarchive.com/icons/joker-design/android/128/browser-icon.png)
 - Hector Jaime Ardila Velez (Hobby: Jugar ajedrez :rhinoceros:)
   Frase: El ayer se ha marchado
 - Valentina Zapata Lopera 
