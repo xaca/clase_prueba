@@ -50,6 +50,13 @@ Pendiente: Frase, Imagen de iconarchive.com
 
 - Valentina Zapata Lopera 
 - Juan Jose Villegas Ospina
+  - **Hobby** 
+    - Soccer :soccer:
+  - **Redes**
+    - [Instagram](https://www.instagram.com/juan_jose_ospina/)
+  - **Frase**
+    > <b>El futuro pertenece a aquellos que creen en la belleza de sus sueños</b> - Eleanor Roosevelt
+
 - Sebastian Bustamante Torres
 - Adrian Felipe Ochoa Hoyos
 - Sebastián Botero Valencia Hobby (Guitarrista en una banda) :guitar:
