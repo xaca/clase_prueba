@@ -49,6 +49,11 @@ Pendiente: Frase, Imagen de iconarchive.com
       
 
 - Valentina Zapata Lopera 
+   **Hobby** Natación  :swimming_woman:
+   **Frase** Hoy es el mejor día de mi vida 
+   **Redes** (https://www.linkedin.com/in/valentina-zapata-lopera-a82360228/)
+   
+
 - Juan Jose Villegas Ospina
   - **Hobby** 
     - Soccer :soccer:
