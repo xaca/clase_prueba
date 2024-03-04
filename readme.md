@@ -59,6 +59,9 @@ Pendiente: Frase, Imagen de iconarchive.com
 
 - Sebastian Bustamante Torres
 - Adrian Felipe Ochoa Hoyos
+>"No importa lo lento que vayas, siempre y cuando no te detengas".
+#### **Portafolio** (https://portafolio-adrianochoa.netlify.app)
+
 - Sebastián Botero Valencia Hobby (Guitarrista en una banda) :guitar:
 
 ![Imagen de musica](https://icons.iconarchive.com/icons/dtafalonso/yosemite-flat/128/Music-icon.png)
