@@ -17,6 +17,7 @@ Pendiente: Frase, Imagen de iconarchive.com
   > "Yo, por mi parte, estoy decidido a no tener más armas que mi pincel y mi pluma." -- Vincent van Gogh
 
   ![Imagen de pintura](https://icons.iconarchive.com/icons/wwalczyszyn/iwindows/128/Paint-icon.png)
+  
   [De mis canciones favoritas de Soda](https://www.youtube.com/watch?v=UPVfQKUHTSc)
 - Rubio Andres Bolaños
   -  Hobbyes 
