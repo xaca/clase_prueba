@@ -68,6 +68,13 @@ Pendiente: Frase, Imagen de iconarchive.com
     > <b>El futuro pertenece a aquellos que creen en la belleza de sus sueños</b> - Eleanor Roosevelt
 
 - Sebastian Bustamante Torres
+    - **Hobbies**
+      -  Animal X :muscle: 
+      - Impresion 3D :nut_and_bolt:
+   - **Frase** 
+     > <b> Solo viven aquellos que luchan</b>  
+   - **Redes**
+        - [Instagram](https://www.instagram.com/sebastian1239/)
 - Adrian Felipe Ochoa Hoyos
 >"No importa lo lento que vayas, siempre y cuando no te detengas".
 #### **Portafolio** (https://portafolio-adrianochoa.netlify.app)
